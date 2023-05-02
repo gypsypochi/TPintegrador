@@ -1,0 +1,66 @@
+.navbar {
+    background-color: black;
+}
+
+.navbar-text,
+.navbar-brand,
+.nav-link {
+    color:white !important;
+}
+
+.custom-bg {
+    background-color: #08086A;
+  }
+.btn-hover-success:hover {
+    background-color: #28a745;
+    border-color: #28a745;
+    color: #fff;
+  }
+  
+  .container {
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+  .form-container {
+    border: 2px solid #007bff;
+    padding: 20px;
+  }
+  
+  #cabecera .card-text {
+    text-align: right;
+    text-justify: distribute;
+    padding-right: 5%;
+    margin-left: 470px; /* ajusta este valor según tu diseño */
+    font-family: 'Poppins', sans-serif;
+    line-height: 1.5em; /* ajusta este valor según el tamaño de fuente y el espaciado deseado */
+  }
+
+  #tarjeta1 .card-title {
+    font-size: 24px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+  }
+  #tarjeta1 .card-text {
+    text-align: justify;
+  }
+
+  #tarjeta2 .card-title {
+    font-size: 24px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+  }
+  #tarjeta2 .card-text {
+    text-align: justify;
+  }
+
+  #tarjeta3 .card-title {
+    font-size: 24px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+  }
+  #tarjeta3 .card-text {
+    text-align: justify;
+  }
+  
+  
+  
